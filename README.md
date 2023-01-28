@@ -51,9 +51,10 @@ How lightmaps are applied is defined in the `MeshRenderer` component inside the 
 
 > **Note**: We may change that in a future release and move lightmap-related data to a `NEEDLE_lightmap` extension entry per node. 
 
-
+How it looks in Unity
 ![image](https://user-images.githubusercontent.com/32600939/215252640-e1e8c7e7-edb7-4ede-861e-f973d2d62cf5.png)
 
+How it looks with Needle Engine (threejs)
 ![image](https://user-images.githubusercontent.com/32600939/215252667-92af3fe9-2008-4435-8650-8b21c56e5ba2.png)
 
 How it looks in [gltf-viewer](https://gltf-viewer.donmccurdy.com/)
