@@ -56,4 +56,9 @@ How lightmaps are applied is defined in the `MeshRenderer` component inside the 
 
 ![image](https://user-images.githubusercontent.com/32600939/215252667-92af3fe9-2008-4435-8650-8b21c56e5ba2.png)
 
+How it looks in [gltf-viewer](https://gltf-viewer.donmccurdy.com/)
 ![image](https://user-images.githubusercontent.com/32600939/215252677-e28af83d-9998-42b3-924d-2aef8ce49436.png)
+
+How it looks in [hyperfy.io](https://hyperfy.io/uq9p8o1qjq)
+
+![image](https://user-images.githubusercontent.com/32600939/215253456-757c17d0-10f0-4165-b828-de89b1dadeaf.png)
